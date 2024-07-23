@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/sciencelogic/otel-components/sllogformatprocessor/internal/testdata"
+	"github.com/watercraft/otel-components/sllogformatprocessor/internal/testdata"
 
 	"github.com/stretchr/testify/assert"
 

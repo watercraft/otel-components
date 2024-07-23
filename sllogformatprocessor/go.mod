@@ -1,4 +1,4 @@
-module github.com/sciencelogic/otel-components/sllogformatprocessor
+module github.com/watercraft/otel-components/sllogformatprocessor
 
 go 1.21
 

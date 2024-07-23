@@ -17,7 +17,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/sciencelogic/otel-components/slzebriumexporter/internal/testdata"
+	"github.com/watercraft/otel-components/slzebriumexporter/internal/testdata"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

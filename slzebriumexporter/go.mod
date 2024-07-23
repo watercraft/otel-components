@@ -1,4 +1,4 @@
-module github.com/sciencelogic/otel-components/slzebriumexporter
+module github.com/watercraft/otel-components/slzebriumexporter
 
 go 1.21
 
